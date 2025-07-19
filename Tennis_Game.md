@@ -1,6 +1,6 @@
 # Tennis Game Scoring
 
-| Input | Input | Output         |
+| Input | Input | Output         | Test Name                                              |
 | ----- | ----- | -------------- | -------------------------------------------- |
 | A     | B     |                |
 | 0     | 0     | Love-Love      | StartGame_Score_is_Love-Love                 |
