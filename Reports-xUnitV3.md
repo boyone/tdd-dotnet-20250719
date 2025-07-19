@@ -53,3 +53,7 @@
      ```sh
      reportgenerator -reports:"Path/To/Credit.Tests/TestResults/<hash value>/coverage.cobertura.xml" -targetdir:"coveragereport"
      ```
+
+     ```sh
+     reportgenerator -reports:report/coverage.cobertura.xml -targetdir:"coveragereport
+     ```
