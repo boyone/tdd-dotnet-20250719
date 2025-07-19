@@ -61,7 +61,7 @@
 ---
 
 ```txt
-project-name
+solution-name
     |-mvc/
         |-mvc.csproj
     |-web-api/
@@ -70,12 +70,12 @@ project-name
         |-classlib.csproj
     |-xunit/
         |-xunit.csproj
-    |-project-name.sln
+    |-solution-name.sln
 ```
 
 
 ```txt
-project-name
+solution-name
     |-src
         |-mvc/
             |-mvc.csproj
@@ -86,5 +86,5 @@ project-name
     |-test
         |-xunit/
             |-xunit.csproj
-    |-project-name.sln
+    |-solution-name.sln
 ```
