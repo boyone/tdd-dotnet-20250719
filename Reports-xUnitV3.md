@@ -36,6 +36,10 @@
    dotnet add package Microsoft.Testing.Extensions.CodeCoverage
    ```
 
+   ```sh
+   dotnet run --results-directory report --coverage --coverage-output-format cobertura --coverage-output coverage.cobertura.xml
+   ```
+
    2.2. Generate `html` report from `xml` report
 
    - Install `dotnet-reportgenerator-globaltool`
